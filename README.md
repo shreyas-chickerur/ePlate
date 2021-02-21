@@ -7,5 +7,9 @@ A meal recommendation system pipeline built into an integrative web-application.
 $ conda create -n venv python=3.8
 $ conda activate venv
 ```
-3. Install dependencies
+2. Install dependencies
+
+```
+$ pip install -r requirements.txt
+```
 4. 
