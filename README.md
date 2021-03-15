@@ -6,4 +6,4 @@ A meal recommendation system pipeline built into an integrative web-application.
 2. `source env/bin/activate`
 3. `pip install -r requirements.txt`
 4. `pre-commit install`
-5. python3 app.py
+5. `python3 app.py`
