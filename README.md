@@ -10,6 +10,7 @@ A meal recommendation system pipeline built into an integrative web-application.
 
 ## React Portion
 1. `cd frontend`
-2. `npm start`
-3. I will add a way to compile react as an html template so we can serve it from inside of flask
+2. `npm install`
+3. `npm start`
+4. I will add a way to compile react as an html template so we can serve it from inside of flask
 
